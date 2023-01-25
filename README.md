@@ -16,7 +16,7 @@ To write a python program to find the rank of a matrix
 ## Program:
 ```
 #program to find the rank of a matrix
-#Developed by: PRADEEP 
+#Developed by: PRADEEP.S 
 #RegisterNumber:22009034
 ```
     import numpy as np
